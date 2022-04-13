@@ -61,7 +61,7 @@ const Card = ({
             </div>
           </div>
           <div className="content">
-            <h3 className="title">{title}</h3>
+            <h2 className="title">{title}</h2>
             <p className="description">{description}</p>
             <div className="rating-btn__container">{ratingArr}</div>
           </div>
@@ -86,7 +86,7 @@ const Card = ({
             </div>
           </div>
           <div className="thankyou__container">
-            <h3>Thank you!</h3>
+            <h2>Thank you!</h2>
             <p>
               We appreciate you taking the time to give a rating. If you ever
               need more support, don’t hesitate to get in touch!
