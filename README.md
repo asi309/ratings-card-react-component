@@ -54,5 +54,5 @@ I learnt how to flip a card using css. That was the main goal of this project fo
 ## Author
 
 - Website - [Asidipta Chaudhuri](https://portfolio-asi309.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/asi309)
+- Frontend Mentor - [@asi309](https://www.frontendmentor.io/profile/asi309)
 
