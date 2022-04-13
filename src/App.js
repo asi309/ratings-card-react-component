@@ -3,9 +3,11 @@ import './App.scss';
 
 function App() {
   return (
-    <div className="app">
-      <Card />
-    </div>
+    <main>
+      <div className="app">
+        <Card />
+      </div>
+    </main>
   );
 }
 

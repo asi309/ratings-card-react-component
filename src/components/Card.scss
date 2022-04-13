@@ -21,15 +21,14 @@
   width: 100%;
   height: 100%;
 
-  // padding: 32px;
-
   border-radius: 30px;
 
   &.back {
     transform: rotateY(180deg);
   }
 
-  .card__rating {
+  .card__rating,
+  .card__thanks {
     position: absolute;
     top: 32px;
     bottom: 32px;
@@ -37,6 +36,10 @@
     left: 32px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+  }
+
+  .card__rating {
+    transform: rotateY(0deg);
 
     display: flex;
     flex-direction: column;
@@ -163,14 +166,6 @@
   }
 
   .card__thanks {
-    position: absolute;
-    top: 32px;
-    left: 32px;
-    bottom: 32px;
-    right: 32px;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-
     transform: rotateY(180deg);
 
     display: flex;
@@ -263,5 +258,5 @@
       right: 24px;
       bottom: 24px;
     }
-  } 
+  }
 }
