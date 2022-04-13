@@ -4,6 +4,7 @@ import './App.scss';
 function App() {
   return (
     <main>
+      <h1 style={{ opacity: 0 }}>Main heading</h1>
       <div className="app">
         <Card />
       </div>
