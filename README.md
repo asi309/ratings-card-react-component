@@ -27,12 +27,12 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop View
-![](./desktop_screenshot.jpg)
-![](./desktop_screenshot_2.jpg)
+![](./desktop_screenshot.png)
+![](./desktop_screenshot_2.png)
 
 #### Mobile View
-![](./phone_screenshot_iPhone_SE.jpg)
-![](./phone_screenshot_iPhone_SE_2.jpg)
+![](./phone_screenshot_iPhone_SE.png)
+![](./phone_screenshot_iPhone_SE_2.png)
 
 ### Links
 
